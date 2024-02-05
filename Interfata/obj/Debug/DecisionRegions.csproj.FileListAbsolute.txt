@@ -1,0 +1,80 @@
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.csproj.AssemblyReference.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.MainForm.resources
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.Properties.Resources.resources
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.csproj.GenerateResource.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.csproj.CoreCompileInputs.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\bin\Debug\DecisionRegions.exe.config
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\bin\Debug\DecisionRegions.exe
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\bin\Debug\DecisionRegions.pdb
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\bin\Debug\Backpropagation.dll
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\bin\Debug\Backpropagation.xml
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.csproj.CopyComplete
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.exe
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\L10\Interfata\obj\Debug\DecisionRegions.pdb
+D:\Facultate\IA\L10\Interfata\bin\Debug\DecisionRegions.exe.config
+D:\Facultate\IA\L10\Interfata\bin\Debug\DecisionRegions.exe
+D:\Facultate\IA\L10\Interfata\bin\Debug\DecisionRegions.pdb
+D:\Facultate\IA\L10\Interfata\bin\Debug\Backpropagation.dll
+D:\Facultate\IA\L10\Interfata\bin\Debug\Backpropagation.xml
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.csproj.AssemblyReference.cache
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.MainForm.resources
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.Properties.Resources.resources
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.csproj.GenerateResource.cache
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.csproj.CoreCompileInputs.cache
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.csproj.CopyComplete
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.exe
+D:\Facultate\IA\L10\Interfata\obj\Debug\DecisionRegions.pdb
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\DecisionRegions.exe.config
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\DecisionRegions.exe
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\DecisionRegions.pdb
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\Backpropagation.dll
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\Backpropagation.xml
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.AssemblyReference.cache
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.MainForm.resources
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.Properties.Resources.resources
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.GenerateResource.cache
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.CoreCompileInputs.cache
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.CopyComplete
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.exe
+D:\Facultate\IA(Inteligenta Artificiala)\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.pdb
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.AssemblyReference.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.MainForm.resources
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.Properties.Resources.resources
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.GenerateResource.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.CoreCompileInputs.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.exe
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.pdb
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\DecisionRegions.exe.config
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\DecisionRegions.exe
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\DecisionRegions.pdb
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\Backpropagation.dll
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\bin\Debug\Backpropagation.xml
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect\L12 - Retea Neuronala\Interfata\obj\Debug\DecisionRegions.csproj.CopyComplete
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\DecisionRegions.exe.config
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\DecisionRegions.exe
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\DecisionRegions.pdb
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\Backpropagation.dll
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\Backpropagation.xml
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.AssemblyReference.cache
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.MainForm.resources
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.Properties.Resources.resources
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.GenerateResource.cache
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.CoreCompileInputs.cache
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.CopyComplete
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.exe
+D:\Facultate\IA\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.pdb
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\DecisionRegions.exe.config
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\DecisionRegions.exe
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\DecisionRegions.pdb
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\Backpropagation.dll
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\bin\Debug\Backpropagation.xml
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.AssemblyReference.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.MainForm.resources
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.Properties.Resources.resources
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.GenerateResource.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.CoreCompileInputs.cache
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.csproj.CopyComplete
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.exe
+F:\Florin\Facultate\Proiect Inteligenta Artificiala\Proiect IA\Proiect Nistor Florin 1408B\Interfata\obj\Debug\DecisionRegions.pdb
